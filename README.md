@@ -2,9 +2,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20visitor!;Hello%20Github%20World!&font=Roboto" />
 
-<a href="https://github.com/HIM198/computer-vision-in-action">
-    <img align="right" src="https://komarev.com/ghpvc/?username=HIM198&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
-</a>
  
 ## Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ，  I'm <a href="http://yang-saiya.gitee.io/personal_blog_yaya/">sangwu （yang）</a>
  
