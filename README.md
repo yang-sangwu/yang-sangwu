@@ -9,7 +9,7 @@
  
 ### 🧠 Introduction
  
-<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
+<img align="right" width="250" src="https://img1.baidu.com/it/u=3594958204,332158379&fm=253&fmt=auto&app=138&f=GIF?w=500&h=390" />
  
 <!-- START_SECTION:brain -->
 * <a href='http://yang-saiya.gitee.io/personal_blog_yaya/' target='_blank'>👷‍♂️ 方向: 后端开发</a>
