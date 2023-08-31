@@ -28,6 +28,7 @@
 <!-- END_SECTION:douban -->
  
 </td></tr>
+<script src="https://blog-static.cnblogs.com/files/e-cat/cursor-effects.js"></script>
  
 <tr><td>
 
