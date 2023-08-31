@@ -32,8 +32,8 @@
 
 🏆 **my github stats:**
 
-|![](https://github-readme-stats.vercel.app/api?username=anzhihe)|![Anzhihe's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anzhihe&layout=compact&hide_border=true&langs_count=10)|
-|-|-|
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yang-sangwu&theme=dark&layout=compact)
+
 
 
 <table>
