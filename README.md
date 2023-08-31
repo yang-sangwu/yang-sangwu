@@ -10,12 +10,12 @@
  
 <br>
  
-### 🧠 Web and code
+### 🧠 Introduction
  
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
  
 <!-- START_SECTION:brain -->
-* <a href='http://welcome.voup.cn' target='_blank'>empty</a> - 2023-05-21
+* <a href='' target='_blank'>👷‍♂️方向：后端开发</a> - 2023-05-21
 * <a href='http://welcome.voup.cn' target='_blank'>empty</a> - 2023-05-21
 * <a href='http://welcome.voup.cn' target='_blank'>empty</a> - 2023-05-21
 * <a href='http://welcome.voup.c' target='_blank'>empty</a> - 2023-05-21
