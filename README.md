@@ -31,9 +31,7 @@
 <hr/>
 
 #### 🐍 contributions
-![](https://raw.githubusercontent.com/yang-sangwu/yang-sangwu/output/github-contribution-grid-snake.svg)
-</td>
-<td valign="top"  width="50%">
+
 
 
  
