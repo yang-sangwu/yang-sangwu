@@ -30,14 +30,6 @@
  
 <hr/>
 
-🏆 **my github skill:**
-
-![](https://github-readme-stats.vercel.app/api?username=yang-sangwu&show_icons=true&theme=dark&count_private=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yang-sangwu&theme=dark&layout=compact)
-
-
-
 #### 🐍 contributions
 ![](https://raw.githubusercontent.com/yang-sangwu/yang-sangwu/output/github-contribution-grid-snake.svg)
 </td>
