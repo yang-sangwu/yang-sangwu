@@ -28,14 +28,6 @@
  
 <tr><td>
  
-<hr/>
-
-#### 🐍 contributions
-
-
-
- 
- 
 <!-- END_SECTION:douban -->
  
 </td></tr>
