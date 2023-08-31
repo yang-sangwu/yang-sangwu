@@ -9,7 +9,7 @@
  
 ### 🧠 Introduction
  
-<img align="right" width="250" src="https://5b0988e595225.cdn.sohucs.com/images/20200504/cc14d246006e47d68da57176b16c41cc.gif" />
+<img align="right" width="300" src="https://5b0988e595225.cdn.sohucs.com/images/20200504/cc14d246006e47d68da57176b16c41cc.gif" />
  
 <!-- START_SECTION:brain -->
 * <a href='http://yang-saiya.gitee.io/personal_blog_yaya/' target='_blank'>👷‍♂️ 方向: 后端开发</a>
