@@ -5,8 +5,6 @@
  
 ## Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ，  I'm <a href="http://yang-saiya.gitee.io/personal_blog_yaya/">sangwu （yang）</a>
  
-<br>
- 
 ### 🧠 Introduction
  
 <img align="right" width="200" src="https://5b0988e595225.cdn.sohucs.com/images/20200504/cc14d246006e47d68da57176b16c41cc.gif" />
