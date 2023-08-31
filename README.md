@@ -38,26 +38,12 @@
 
 
 
-<table>
-<tr>
-<td valign="top"  width="50%">
-
 #### 🐍 contributions
 ![](https://raw.githubusercontent.com/anzhihe/anzhihe/output/github-contribution-grid-snake.svg)
 </td>
 <td valign="top"  width="50%">
 
-#### 👉 [Recent Blog](https://chegva.com)
 
-
-- [SQL 之母 – 免费的闯关式 SQL 自学网 - 2023-08-28](https://chegva.com/5777.html)
-- [家庭常备药清单 - 2023-08-27](https://chegva.com/5772.html)
-- [Mysql主从、双主及主从同步1236错误 - 2023-08-20](https://chegva.com/5767.html)
-- [ES 机器加入集群报 handshake failed 错误解决办法 - 2023-08-18](https://chegva.com/5763.html)
-- [Win10 + Ubuntu20.04双系统安装 - 2023-08-06](https://chegva.com/5761.html)
-</td>
-</tr>
-</table>
  
  
 <!-- END_SECTION:douban -->
