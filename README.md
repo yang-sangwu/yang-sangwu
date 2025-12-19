@@ -10,7 +10,7 @@
  
 <!-- START_SECTION:brain -->
 * <a href='http://yang-saiya.gitee.io/personal_blog_yaya/' target='_blank'>👷‍♂️ 方向: 后端开发</a>
-* <a href='https://mail.qq.com/' target='_blank'>📫 邮箱: 2728771838@qq.com</a>
+* <a href='https://mail.qq.com/' target='_blank'>📫 邮箱: yangsaiyaya@qq.com</a>
 * <a href='http://yang-saiya.gitee.io/personal_blog_yaya/' target='_blank'>🚀 个人博客</a>
 * <a href='https://juejin.cn/user/2483115919684301' target='_blank'>🛸 掘金</a>
 * <a href='http://https://blog.csdn.net/Hubery_sky?spm=1000.2115.3001.5343' target='_blank'>🚟 CSDN</a>
