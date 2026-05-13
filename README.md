@@ -13,7 +13,7 @@
 * <a href='https://mail.qq.com/' target='_blank'>📫 邮箱: yangsaiyaya@qq.com</a>
 * <a href='http://yang-saiya.gitee.io/personal_blog_yaya/' target='_blank'>🚀 个人博客</a>
 * <a href='https://juejin.cn/user/2483115919684301' target='_blank'>🛸 掘金</a>
-* <a href='http://https://blog.csdn.net/Hubery_sky?spm=1000.2115.3001.5343' target='_blank'>🚟 CSDN</a>
+* <a href='https://yangsaiya.blog.csdn.net/' target='_blank'>🚟 CSDN</a>
 * <a href='http://yang-saiya.gitee.io/personal_blog_yaya/' target='_blank'>🤳 介绍：一个积极向上，乐于探索的00后</a>
 * <a href='http://yang-saiya.gitee.io/personal_blog_yaya/' target='_blank'>✨ 个签：乐观、积极、感恩、承担！</a>
 <!-- END_SECTION:brain -->
